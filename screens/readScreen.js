@@ -1,14 +1,5 @@
 import * as React from 'react';
-import {
-  Text,
-  View,
-  StyleSheet,
-  Image,
-  TextInput,
-  TouchableOpacity,
-  FlatList,
-  ScrollView,
-} from 'react-native';
+import { Text, View, StyleSheet, Image, TextInput, TouchableOpacity, FlatList, ScrollView, } from 'react-native';
 import {SearchBar} from 'react-native-elements';
 import db from '../config'
 
